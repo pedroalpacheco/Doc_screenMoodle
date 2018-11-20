@@ -8,7 +8,7 @@ Documenta configurações e plugins do moodle.
 
 ### Como usar ###
 
-git clone https://pedroalpacheco@bitbucket.org/pedroalpacheco/doc_screenmoodle.git
+git clone https://github.com/pedroalpacheco/Doc_screenMoodle.git
 
 cd doc_screenmoodle
 
